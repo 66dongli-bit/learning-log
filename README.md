@@ -21,6 +21,9 @@ A Django web application for recording learning topics and notes.
 
 ## How to Run
 
+Open in browser:
+http://127.0.0.1:8000/
+
 ```bash
 python manage.py migrate
 python manage.py runserver
